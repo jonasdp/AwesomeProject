@@ -1,4 +1,4 @@
 # Summary
 
-* foreword
+* [foreword](foreword.md)
 
